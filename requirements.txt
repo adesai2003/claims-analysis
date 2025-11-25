@@ -1,12 +1,12 @@
 polars
-pandas
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
 requests
 scipy
 numpy
-matplotlib
 statsmodels
 sqlalchemy
-seaborn
 faker
 tabulate 
 sweetviz
@@ -18,3 +18,4 @@ azure-ai-vision-imageanalysis
 python-dotenv
 shap
 mlflow
+ipython
