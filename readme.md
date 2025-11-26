@@ -37,6 +37,12 @@ The analysis uses three related CSV files:
 1. Clone this repository:
    git clone <https://github.com/adesai2003/claims-analysis.git>
 
-2. Install requirements.txt
+2. Activate Virtual Environment
 
-3. Run all cells
+3. Open Terminal 
+
+4. Install requirements.txt
+
+5. type 'python' in terminal and select enter
+
+6. Run all cells
